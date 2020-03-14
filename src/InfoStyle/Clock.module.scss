@@ -1,0 +1,23 @@
+.clock {
+  font-family: Segoe UI, Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  .date {
+    flex: 1;
+    justify-content: center;
+    display: flex;
+    color: #707070;
+  }
+
+  .time {
+    font-size: 3rem;
+    flex: 1;
+    justify-content: center;
+    display: flex;
+    margin-top: auto;
+    color: #707070;
+  }
+}

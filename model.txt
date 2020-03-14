@@ -1,0 +1,10 @@
+App.js
+|
+|ㅡㅡ Background.jsㅡㅡㅡ Quest.js (children)
+|              |                        |ㅡㅡㅡ QuestList.js
+|              |                                         |ㅡㅡㅡ QuestItem.js
+|              |
+|           Info.js (children)
+|              |ㅡㅡㅡ Weather.js
+|              |ㅡㅡㅡ Air.js
+|              |ㅡㅡㅡ Clock.js
